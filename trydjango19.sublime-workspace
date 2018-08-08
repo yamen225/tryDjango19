@@ -1,0 +1,1074 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"H",
+				"HttpResponseRedirect"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"post",
+				"post_list"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"d",
+				"django"
+			],
+			[
+				"new",
+				"newProd"
+			],
+			[
+				"Str",
+				"String"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"l",
+				"link\tTag"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"scr",
+				"source\tTag"
+			],
+			[
+				"app",
+				"appendTo"
+			],
+			[
+				"ke",
+				"keyword"
+			],
+			[
+				"Pr",
+				"Prod"
+			],
+			[
+				"cre",
+				"createObj"
+			],
+			[
+				"O",
+				"Object"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"Prod",
+				"Product"
+			],
+			[
+				"Al",
+				"Album2"
+			],
+			[
+				"Albu",
+				"Album2"
+			],
+			[
+				"boo",
+				"bookName2"
+			],
+			[
+				"s",
+				"sPoints"
+			],
+			[
+				"Boo",
+				"book1"
+			],
+			[
+				"book",
+				"bookName1"
+			],
+			[
+				"click",
+				"clicked_class"
+			],
+			[
+				"clic",
+				"clicked_class"
+			],
+			[
+				"pr",
+				"price"
+			],
+			[
+				"music",
+				"musicShow"
+			],
+			[
+				"head",
+				"header2"
+			],
+			[
+				"backgrou",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"te",
+				"text"
+			],
+			[
+				"sr",
+				"script\tTag"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"from",
+				"from_email"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"full",
+				"full_name"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Sign",
+				"SignUpForm"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"productReduce"
+			],
+			[
+				"stat",
+				"state"
+			],
+			[
+				"Dakot",
+				"Dakotas"
+			],
+			[
+				"Da",
+				"Dakota"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"if",
+				"if\tif"
+			],
+			[
+				"functio",
+				"functionalMap"
+			],
+			[
+				"day",
+				"daysOfWeek"
+			],
+			[
+				"a",
+				"alert"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"arr",
+				"arrayToList"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"r",
+				"range"
+			],
+			[
+				"Ev",
+				"EvOdd"
+			],
+			[
+				"lang",
+				"language\tAttr"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"ip",
+				"ip"
+			],
+			[
+				"I",
+				"IsPrime"
+			],
+			[
+				"inc",
+				"inc\t#include <…>"
+			],
+			[
+				"MPI_",
+				"MPI_Barrier"
+			],
+			[
+				"tot",
+				"total_count"
+			],
+			[
+				"MPI",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"lo",
+				"local_count"
+			],
+			[
+				"loca",
+				"local_a"
+			],
+			[
+				"MP",
+				"MPI_COMM_WORLD"
+			],
+			[
+				"MPI_CO",
+				"MPI_Comm_Rank"
+			],
+			[
+				"loc",
+				"local_b"
+			],
+			[
+				"std",
+				"stdlib.h\tstandard header"
+			],
+			[
+				"de",
+				"dest"
+			],
+			[
+				"ar",
+				"argv"
+			],
+			[
+				"c",
+				"counter"
+			],
+			[
+				"w",
+				"wTime"
+			],
+			[
+				"se",
+				"svTime"
+			],
+			[
+				"meda",
+				"medalists"
+			],
+			[
+				"bro",
+				"Bronze10"
+			],
+			[
+				"si",
+				"Silver10"
+			],
+			[
+				"gol",
+				"Gold10"
+			],
+			[
+				"num",
+				"numberOfMedals10"
+			],
+			[
+				"May",
+				"Maynamar"
+			],
+			[
+				"S",
+				"Sepaktakraw"
+			],
+			[
+				"Sil",
+				"Silver10"
+			],
+			[
+				"R",
+				"Rank2010"
+			],
+			[
+				"med",
+				"medalists2"
+			],
+			[
+				"rank",
+				"rank1"
+			],
+			[
+				"gw",
+				"gw10"
+			],
+			[
+				"rec",
+				"rec10"
+			],
+			[
+				"ch",
+				"ch"
+			],
+			[
+				"st",
+				"stdio.h\tstandard header"
+			],
+			[
+				"total",
+				"Total_number_of_Medals_14"
+			],
+			[
+				"tota",
+				"Total_number_of_Medals_10"
+			],
+			[
+				"To",
+				"Total_number_of_Medals_14"
+			],
+			[
+				"Tot",
+				"Total_Bronze_14"
+			],
+			[
+				"asi",
+				"asianGames10"
+			],
+			[
+				"La",
+				"Laos_Rank_14"
+			],
+			[
+				"bes",
+				"best_acheiv10"
+			],
+			[
+				"parti",
+				"participated"
+			],
+			[
+				"achie",
+				"acheivers"
+			],
+			[
+				"Fch",
+				"Fchoice-1"
+			],
+			[
+				"Fc",
+				"Fcount"
+			],
+			[
+				"pa",
+				"part_sports14"
+			],
+			[
+				"par",
+				"part_sports10"
+			],
+			[
+				"ir",
+				"IrWin14"
+			],
+			[
+				"JMC",
+				"JMC14"
+			],
+			[
+				"A",
+				"Athletics"
+			],
+			[
+				"J",
+				"Judo"
+			],
+			[
+				"str",
+				"string.h\tstandard header"
+			],
+			[
+				"B",
+				"Bronze"
+			],
+			[
+				"Jo",
+				"Jor_Rank_10"
+			],
+			[
+				"Ir",
+				"Iran_Rank_14"
+			],
+			[
+				"As",
+				"As10"
+			],
+			[
+				"AS",
+				"As14"
+			],
+			[
+				"my",
+				"myPortion2"
+			],
+			[
+				"ro",
+				"row_size1"
+			],
+			[
+				"ma",
+				"max_r"
+			],
+			[
+				"row",
+				"row_size1"
+			],
+			[
+				"mat",
+				"mat_size2"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/posts/models.py",
+			"settings":
+			{
+				"buffer_size": 507,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/trydjango19/urls.py",
+			"settings":
+			{
+				"buffer_size": 898,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/views.py",
+			"settings":
+			{
+				"buffer_size": 1305,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/post-form.html",
+			"settings":
+			{
+				"buffer_size": 201,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/post-detail.html",
+			"settings":
+			{
+				"buffer_size": 202,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/url.py",
+			"settings":
+			{
+				"buffer_size": 1133,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 332,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/posts/forms.py",
+			"settings":
+			{
+				"buffer_size": 154,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/yamen/WorkSpace/Django1.9/trydjango19",
+		"/home/yamen/WorkSpace/Django1.9/trydjango19/src",
+		"/home/yamen/WorkSpace/Django1.9/trydjango19/src/posts",
+		"/home/yamen/WorkSpace/Django1.9/trydjango19/src/templates",
+		"/home/yamen/WorkSpace/Django1.9/trydjango19/src/trydjango19"
+	],
+	"file_history":
+	[
+		"/home/yamen/WorkSpace/Django1.9/trydjango19/src/trydjango19/settings.py",
+		"/home/yamen/WorkSpace/Django1.9/trydjango19/src/posts/admin.py",
+		"/home/yamen/WorkSpace/Django1.9/trydjango19/src/trydjango19/urls.py",
+		"/home/yamen/WorkSpace/FrontEndTask/cdn/js/main.js",
+		"/home/yamen/WorkSpace/JavaScript/js_tutorial/checking.js",
+		"/home/yamen/WorkSpace/FrontEndTask/form.html",
+		"/home/yamen/WorkSpace/FrontEndTask/nav-bar.html",
+		"/home/yamen/WorkSpace/FrontEndTask/header.html",
+		"/home/yamen/WorkSpace/FrontEndTask/cdn/css/navbar-top.css",
+		"/home/yamen/WorkSpace/FrontEndTask/Albums.html",
+		"/home/yamen/WorkSpace/FrontEndTask/initial phase/index.html",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/newsletter/models.py",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/templates/home.html",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/newsletter/forms.py",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/newsletter/admin.py",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/trydjango18/settings.py",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/static_in_pro/our_static/css/bootstrap.min.css",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/static_in_pro/our_static/css/navbar-top.css",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/trydjango18/urls.py",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/templates/forms.html",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/newsletter/views.py",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/templates/base.html",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/static_in_pro/our_static/img/example.txt",
+		"/home/yamen/WorkSpace/Django1.9/Development/myenv/src/newsletter/templates/home.html",
+		"/home/yamen/WorkSpace/JavaScript/js_tutorial/index.html",
+		"/home/yamen/WorkSpace/JavaScript/js_tutorial/functional.js",
+		"/home/yamen/WorkSpace/JavaScript/js_tutorial/palindrome.js",
+		"/home/yamen/WorkSpace/JavaScript/js_tutorial/foreach.js",
+		"/home/yamen/WorkSpace/JavaScript/js_tutorial/day.js",
+		"/home/yamen/WorkSpace/JavaScript/js_tutorial/count.js",
+		"/home/yamen/WorkSpace/JavaScript/FirstJS.js",
+		"/home/yamen/WorkSpace/JavaScript/FirstJS.html",
+		"/home/yamen/demo_blog/config/environments/development.rb",
+		"/home/yamen/demo_blog/app/assets/stylesheets/application.css",
+		"/home/yamen/WorkSpace/Oman_assignments/indonesia/Indo.c",
+		"/home/yamen/WorkSpace/Parallel/final_rev/is_prime.c",
+		"/home/yamen/WorkSpace/Parallel/final_rev/exam151.c",
+		"/home/yamen/WorkSpace/Parallel/final_rev/e15_2.c",
+		"/home/yamen/WorkSpace/Parallel/final_rev/matxsr.c",
+		"/home/yamen/WorkSpace/Parallel/final_rev/matxsrD.c",
+		"/home/yamen/WorkSpace/Parallel/final_rev/matxsg.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Qeue/final_rev/matxsr.c",
+		"/home/yamen/WorkSpace/Oman_assignments/indonesia/Indo.doc",
+		"/home/yamen/WorkSpace/Oman_assignments/Saudi/Saudi.c",
+		"/home/yamen/WorkSpace/Oman_assignments/taj/taj.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Maynamar/May.c",
+		"/home/yamen/WorkSpace/Oman_assignments/palestine/Palestine.c",
+		"/home/yamen/WorkSpace/Oman_assignments/palestine/Palestine.doc",
+		"/home/yamen/WorkSpace/Oman_assignments/Brunei/brunei.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Lib.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Jordan/Jordan.c",
+		"/home/yamen/WorkSpace/Oman_assignments/uzbi/Uzbi.doc",
+		"/home/yamen/WorkSpace/Oman_assignments/uzbi/Uzbi.c",
+		"/home/yamen/WorkSpace/Oman_assignments/HongKong/HongKong.c",
+		"/home/yamen/WorkSpace/Oman_assignments/chinese Teipei/Chinese Taipei competed in the 16th and 17th Asian",
+		"/home/yamen/WorkSpace/Oman_assignments/HongKong/Hong Kong.doc",
+		"/home/yamen/WorkSpace/Oman_assignments/chinese Teipei/TPE.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Japan/Japan.doc",
+		"/home/yamen/WorkSpace/Oman_assignments/Japan/Japan.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Unknown.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Iran/Iran.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Iran/Iran.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Turk/Turk.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Turk/Turk.doc",
+		"/home/yamen/WorkSpace/Oman_assignments/Yemen/Yemen.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Syria/Syria.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Syria/Syria.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Iraq/Iraq.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Iraq/Iraq.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/FlowerShopMngmnt/FlowerShopMngmnt.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Yemen/Yemen.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Yemen.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Laos/Laos.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Jordan/Jordan1.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Qatar/Qatar.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Jordan_2/Jordan_2.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Brunei/Brunei.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Jordan_2/Jordan.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Brunei/Saudi Arabia.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Lebanon/Lebanon.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/SriLanke/Srilanke.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/SriLanke/Srilank.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Iran/Iran-2.docx",
+		"/home/yamen/WorkSpace/Oman_assignments/Laoos.c",
+		"/home/yamen/WorkSpace/Oman_assignments/brunei.c",
+		"/home/yamen/WorkSpace/Oman_assignments/FlowerShopMngmnt.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Car_Parking/rayyan.cpp",
+		"/home/yamen/WorkSpace/Oman_assignments/Lebanon/Lebanon.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Car_Parking/rayyan.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Srilank.c",
+		"/home/yamen/WorkSpace/Oman_assignments/FIFS.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Iran_2.c",
+		"/home/yamen/WorkSpace/Oman_assignments/FIFSC++.cpp",
+		"/home/yamen/WorkSpace/Oman_assignments/Qatar.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Jordan/Qatar.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Jordan_2.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Jordan.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Lebanon.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Saudi.c",
+		"/home/yamen/WorkSpace/Oman_assignments/Iran.c",
+		"/home/yamen/WorkSpace/Parallel/third.c",
+		"/home/yamen/WorkSpace/Parallel/second.c",
+		"/home/yamen/WorkSpace/Parallel/MPI_Fact_SR.c",
+		"/home/yamen/WorkSpace/Parallel/mat_mult.c",
+		"/home/yamen/WorkSpace/Parallel/my_mat_multi_MPI_SG.c"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/posts/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 507,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								476,
+								476
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/trydjango19/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 898,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								887,
+								887
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 58.6666666667,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/posts/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1305,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1042,
+								1042
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/templates/post-form.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/templates/post-detail.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 202,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								83,
+								83
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/posts/url.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1133,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1083,
+								1083
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 58.6666666667,
+						"translation.y": 157.333333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								152,
+								152
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/posts/forms.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 154,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								150,
+								150
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango19.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 163.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
