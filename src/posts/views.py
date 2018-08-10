@@ -32,7 +32,7 @@ def post_list(request):
 		"object_list":queryset,
 		"title": "list",
 	}
-	return render(request, "post_list.html", context)
+	return render(request, "post-list.html", context)
 
 def post_update(request, id= None):
 	instance = get_object_or_404(Post,id=id)

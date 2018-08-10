@@ -1,22 +1,16 @@
+{% load static %}
+
 <!DOCTYPE html>
 <html>
 <head>
 	<title>{% block head_title %}Try Django 1.9{% endblock head_title %} </title>
+	<link rel="stylesheet" type="text/css" href='{% static "css/base.css" %} ' />
 </head>
 <body>
-	{% if messages %}
-		<div class="messages">
-			<ul class="messages">
-    			{% for message in messages %}
-    				<li{% if message.tags %} class="{{ message.tags }}"{% endif %}>
-        			{% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %}Important: {% endif %}
-        			{{ message }}
-    				</li>
-    			{% endfor %}
-			</ul>
-		</div>
-	{% endif %}
+	{% include "messages-display.html" %}
 	<div class="container">
+		{% block content %}
+		{% endblock content%}
 	</div>
 </body>
 </html>
